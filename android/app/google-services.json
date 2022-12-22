@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "565219577357",
+    "project_id": "sayit-cdd92",
+    "storage_bucket": "sayit-cdd92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565219577357:android:5ca142ca48ea6a72f40f44",
+        "android_client_info": {
+          "package_name": "com.example.untitled1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565219577357-30n0rlpv0mvcu9v5e5h6sch1g02h5ktp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAWDTzIaTAuNe6-nf9MaE0jeJ-pjABHxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565219577357-30n0rlpv0mvcu9v5e5h6sch1g02h5ktp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
